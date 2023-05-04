@@ -1,0 +1,6 @@
+1. npm i express pg pg-hstore sequelize sequelize-cli
+2. npm i --save-dev nodemon
+3. sequelize init (use npx in powershell)
+4. sequelize db:create
+5. sequelize db:migrate
+
